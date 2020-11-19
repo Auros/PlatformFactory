@@ -1,12 +1,12 @@
 ﻿{
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
-  "id": "PlatformFactory",
-  "name": "PlatformFactory",
   "author": "Auros",
-  "version": "0.1.0",
-  "description": "Customizable environments in Beat Saber.",
-  "gameVersion": "1.12.2",
   "dependsOn": {
     "BSIPA": "^4.0.0"
-  }
+  },
+  "description": "Customizable environments in Beat Saber.",
+  "gameVersion": "1.13.0",
+  "id": "PlatformFactory",
+  "name": "PlatformFactory",
+  "version": "0.1.0"
 }
