@@ -1,4 +1,4 @@
-name: Build Development PlatformFactory
+name: [Development] PlatformFactory
 
 on:
   push:
